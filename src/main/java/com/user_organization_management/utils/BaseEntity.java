@@ -33,8 +33,8 @@ public abstract class BaseEntity<ID>  {
     private LocalDateTime createdDate;
 
     @LastModifiedBy
-    private String latModifiedBy;
+    private String lastModifiedBy;
 
     @LastModifiedDate
-    private LocalDateTime latModifiedDate;
+    private LocalDateTime lastModifiedDate;
 }
