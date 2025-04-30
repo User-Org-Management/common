@@ -3,9 +3,8 @@ package com.user_organization_management.exception;
 import lombok.NoArgsConstructor;
 
 @NoArgsConstructor
-public class EntityNotFoundException extends RuntimeException {
-
-	public EntityNotFoundException(String message) {
+public class DuplicateRecordException extends RuntimeException{
+    public DuplicateRecordException(String message) {
         super(message);
     }
 }

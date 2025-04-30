@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9e01469-1e46-4e23-bb01-464cb0dffbd7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/user_organization_management/exception/AccountLockedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/user_organization_management/exception/CustomAccessDeniedHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/user_organization_management/exception/CustomAuthenticationEntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/user_organization_management/exception/DefaultExceptionAttributes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/user_organization_management/exception/DuplicateRecordException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/user_organization_management/exception/ErrorResponseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/user_organization_management/model/SearchModel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/user_organization_management/utils/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/user_organization_management/utils/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/user_organization_management/exception/AccountLockedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/user_organization_management/exception/AccountLockedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/user_organization_management/exception/BadCredentialsAuthException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/user_organization_management/exception/BadCredentialsAuthException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/user_organization_management/exception/CustomAccessDeniedHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/user_organization_management/exception/CustomAccessDeniedHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/user_organization_management/exception/CustomAuthenticationEntryPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/user_organization_management/exception/CustomAuthenticationEntryPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/user_organization_management/exception/EntityNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/user_organization_management/exception/EntityNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/user_organization_management/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/user_organization_management/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/user_organization_management/model/CustomErrorResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/user_organization_management/model/CustomErrorResponse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/user_organization_management/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/user_organization_management/utils/Constants.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
